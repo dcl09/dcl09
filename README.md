@@ -12,7 +12,7 @@
 - 🏫 Computer Engineering student @ **FEUP**, Porto, Portugal
 - 🔬 Member of **NIAEFEUP** - collaborating on [UNI](https://github.com/NIAEFEUP/uni), a Flutter app for FEUP students
 - 💡 Interested in backend development and mobile
-- 🚀 Open to internships
+
 
 
 
