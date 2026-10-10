@@ -30,7 +30,7 @@ Working on [Robotair](https://github.com/robotair), a platform for deploying rob
 **[NIAEFEUP](https://niaefeup.pt/): Software Engineer** · *Oct 2025 - Present* <br/>
 Contributing to [UNI](https://github.com/NIAEFEUP/uni) and [Niployments](https://github.com/NIAEFEUP/niployments).
 
-## Projects
+## Academic Projects
 
 | Year | Semester | Project | What it is | Stack |
 |:---:|:---:|---|---|---|
