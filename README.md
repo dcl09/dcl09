@@ -1,12 +1,46 @@
-# Hi there, I'm Daniel 👋
+# Hi, I'm Daniel 👋
 
-I'm a Computer Engineering student at FEUP, Porto, currently 
-contributing to [UNI](https://github.com/NIAEFEUP/uni) at NIAEFEUP,
-an open-source Flutter app with 5,000+ installs on Google Play.
+Informatics and Computing Engineering student at **FEUP**, who enjoys building full-stack software, with a preference for backend. At [**NIAEFEUP**](https://niaefeup.pt/) I contribute to [**UNI**](https://github.com/NIAEFEUP/uni), an open-source Flutter app with 5,000+ installs on Google Play, and to [**Niployments**](https://github.com/NIAEFEUP/niployments), the chapter's infrastructure-as-code project. I'm also an intern at [**INESC TEC**](https://www.inesctec.pt/), working on load testing and chaos engineering for [**Robotair**](https://github.com/robotair).
 
-Interested in backend development and mobile.
+## Tech
 
----
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-**Languages & Frameworks**  
-Dart · Java · C/C++ · Python · JavaScript · Flutter
+## Experience
+
+**[INESC TEC](https://www.inesctec.pt/): Chaos Engineering Intern** · *Jun - Jul 2026; Sep 2026 - Present* <br/>
+Working on [Robotair](https://github.com/robotair), a platform for deploying robotics software as easily as a web app. Load-tested it with up to 5,000 simulated devices, built a fault-injection proxy, and am now making the simulator ready to find real infrastructure bottlenecks.
+
+**[NIAEFEUP](https://niaefeup.pt/): Software Engineer** · *Oct 2025 - Present* <br/>
+Contributing to [UNI](https://github.com/NIAEFEUP/uni) and [Niployments](https://github.com/NIAEFEUP/niployments).
+
+## Projects
+
+| Year | Semester | Project | What it is | Stack |
+|:---:|:---:|---|---|---|
+| 2nd | 1st | [Ascent](https://github.com/dcl09/ascent) | 2D roguelike, using MVC, Game Loop, Strategy and Builder patterns | Java |
+| 2nd | 2nd | [Compalloc](https://github.com/dcl09/compalloc) | Graph-coloring register allocator with four strategies (greedy, spilling, splitting, backtracking and hybrid) | C++ |
+| 2nd | 2nd | [Alloy](https://github.com/dcl09/alloy) | Full-stack gym platform: role-based access, class booking, equipment reservation, public REST API | PHP · JavaScript · SQLite |
+| 2nd | 2nd | [Cents](https://github.com/dcl09/cents) | Mobile app to manage shopping lists and compare supermarket prices | React Native · Expo · Firebase |
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dcl09&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+</p>
